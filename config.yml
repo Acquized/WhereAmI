@@ -1,0 +1,13 @@
+# -----------------
+# Config.yml File for WhereAmI
+# -----------------
+
+WhereAmI:
+  Prefix: '&8[&7Where&rAmI&8] '
+
+Messages:
+  Success: '&rYou are currently connected to &7%server%&r.'
+  Others: '&r%player% &ris currently connected to &7%server%&r.'
+  NoPermission: '&rYou don''t have the Permission &7%perm% &7to execute this command.'
+  Reload: '&rSuccessfully reloaded the Config File in &7%time%&r.'
+  NotOnline: '&rThe Player &7%player% &ris not online.'
